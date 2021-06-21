@@ -29,7 +29,6 @@
 .u-section-1 .u-group-1 {
   width: 517px;
   min-height: 439px;
-  height: auto;
   margin: -339px auto 60px calc(((100% - 1140px) / 2));
 }
 
@@ -79,7 +78,6 @@
   .u-section-1 .u-group-1 {
     width: 490px;
     margin-left: calc(((100% - 940px) / 2));
-    height: auto;
   }
 }
 
@@ -454,12 +452,12 @@
 .u-section-3 .u-text-2 {
   font-weight: 700;
   font-family: Oswald, sans-serif;
-  margin: 20px 4px 0 0;
+  margin: 20px 5px 0 0;
 }
 
 .u-section-3 .u-text-3 {
   font-style: italic;
-  margin: 20px 4px 0 0;
+  margin: 20px 5px 0 0;
 }
 
 .u-section-3 .u-list-item-2 {
@@ -478,12 +476,12 @@
 .u-section-3 .u-text-4 {
   font-weight: 700;
   font-family: Oswald, sans-serif;
-  margin: 20px 4px 0 0;
+  margin: 20px 5px 0 0;
 }
 
 .u-section-3 .u-text-5 {
   font-style: italic;
-  margin: 20px 4px 0 0;
+  margin: 20px 5px 0 0;
 }
 
 .u-section-3 .u-list-2 {
@@ -832,7 +830,7 @@
   font-size: 3.75rem;
   font-weight: 700;
   text-transform: none;
-  margin: 0;
+  margin: 158px 0 0;
 }
 
 .u-section-4 .u-layout-cell-2 {
@@ -981,7 +979,7 @@
 .u-section-5 .u-text-1 {
   font-family: Cabin;
   font-size: 3rem;
-  margin: 30px 0 0;
+  margin: 54px 0 0;
 }
 
 .u-section-5 .u-text-2 {
